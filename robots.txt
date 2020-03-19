@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fiepohghae.xresearcher.com/sitemap.xml
